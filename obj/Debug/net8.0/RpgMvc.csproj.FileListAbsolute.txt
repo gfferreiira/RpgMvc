@@ -34,3 +34,4 @@ D:\WellGui\DS\RpgMvc\obj\Debug\net8.0\refint\RpgMvc.dll
 D:\WellGui\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.pdb
 D:\WellGui\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.genruntimeconfig.cache
 D:\WellGui\DS\RpgMvc\obj\Debug\net8.0\ref\RpgMvc.dll
+D:\WellGui\DS\RpgMvc\obj\Debug\net8.0\RpgMvc.sourcelink.json
