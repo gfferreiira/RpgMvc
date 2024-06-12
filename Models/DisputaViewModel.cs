@@ -8,7 +8,7 @@ namespace RpgMvc.Models
     public class DisputaViewModel
     {
         public int Id { get; set; } 
-        public DateTime? DataDisuputa { get; set; }
+        public DateTime? DataDisputa { get; set; }
         public int? AtacanteId { get; set; }    = 0;
         public int? OponenteId { get; set; }   = 0;
         public string Narracao { get; set; }  = string.Empty;
